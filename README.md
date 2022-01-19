@@ -1,1 +1,1 @@
-Akun
+Aplikasi ini menggunakan Codeigniter framework
